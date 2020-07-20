@@ -1,0 +1,26 @@
+﻿Module 1: What is code? Reading and reflection. 
+Module 1 Objective: To read and reflect on the nature of code and creation through digitized data and software. 
+Read Article: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/ 
+Answer the following questions in a .txt file saved as: What_is_code_reflection 
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+I”ve been using computers most of my life, but never realized the coding process behind writing this paragraph. It is truly fascinating-as I write these words, the computer is waiting on a signal. From that signal, the computer processes that signal but not in the format that I would expect-not a simple letter but it is a multi-step process that also involves using its memory, and creating the actual letters on the screen that we see before us.
+In your own words, how do computers use input and output to create experiences? (250 words max)
+Computers use input or take information from the keyboard, mouse, touchscreen, camera, microphone. It stores and processes that information depending on what the input is or what the computer is asked to do. The output can be documents, photos and videos.
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max) 
+Software products are essentially “infinitely reproducible nothings” because all of the work that goes into a product created to make another product run is intangible. For example, the article describes the “big four” companies(Apple, Google, Microsoft, Amazon) and the amount of labor that goes on behind the scenes to keep their Application Programming Interfaces(APIs). The article points out that “hundreds of programmers” need to write code for the Software Development Kit(SDK) and that someone needs to “write the software that goes into making the IDE work.”  Software,code in of itself is intangible though it is used for the larger systems to function as a whole smoothly and efficiently.
+Explain in your own words how code becomes software. (150 words max) 
+Code becomes software when it is formed correctly and can be turned into basic instructions that can be followed and applied by the system.  
+Explain “algorithms” in your own words. (150 words max) 
+Algorithms are a series of steps to solve a problem. The author gives examples of algorithms such as Dijkstra’s algorithm which “finds the shortest path in a graph.” The author also uses the example of Euclid’s algorithm, which “determines the greatest common divisor for two numbers.” In relation to code, finding the best algorithms will provide for a more productive and efficient system or program.. 
+Explain the DRY principle. (100 words max)
+The DRY or Don’t Repeat Yourself principle is an important rule for programmers. It means that they should write efficient code that only needs to be created and run once and allows the computer to run itself multiple times.
+In your own words, what is object-oriented programming? (100 words max) 
+Object-oriented programming is a systematic way of organizing code. It helps programmers to build a library to which they can name and reference code.
+In your own words explain data and how it relates to code. (100 Words max) 
+Data is information-that information comes in many different forms(ie tweets,emails, music files). Code is used to manage all of the data that exists everywhere.
+What is a framework? (150 words max) 
+A framework is a starting point for programmers to develop applications and other items. The article states there are many frameworks that can be used for different purposes such as graphical applications, Web applications and network servers.
+What is debugging? (150 words max) 
+The author defines debugging as programming.  A programmer’s task is to find what does not work in the code and fix it. 
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max) 
+The article does not glamorize coding in any way, it is hard work but it has its rewards. In the article, the author mentions how code that is made one day can be useless the next. While this may be true, learning more about the particular coding languages that exist has piqued my interest to want to learn more about the particular processes that run every facet of the globe. Having a clearer understanding of how code works and being able to create code, and develop programs will open up many doors for me that would not have otherwise existed.
