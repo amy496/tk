@@ -1,0 +1,16 @@
+1. What is Git and how is it different from Github?
+
+Git is described as a "version control system" mainly used by programmers who code. A Git repository stores and keeps track of the changes that are made to code on your computer.
+It allows for different users to work on the same code simultaneously and for those merged changes to be tracked as well. Github is a website that enables users to upload 
+their Git repos online. Github provides a backup of files, gives the user a visual for their repos, and allows for easier collaboration within teams working on the same project.
+
+2. Why use the terminal?
+
+The terminal is used because it allows the programmer to "talk" directly to the computer rather than through the graphical user interface(GUI). It is more efficient for
+working on projects and is expected to be used as a tech professional.
+
+
+3. Explain 3 benefits of version control in your own words.
+
+Version control keeps tracks of changes made to code by multiple users in a central location. This can allow for projects to be completed in quicker time. This is also beneficial because it gives the programmer a form of reference when applying particular code.
+A programmer can examine the changes and improve on what was done before or if a code does not work a programmer can retrace their steps and look at where they went wrong to fix it. 
