@@ -1,0 +1,30 @@
+const food = parseInt(prompt("What is your total monthly food cost?"))
+
+const pay = parseInt(prompt("What is your weekly income?"))
+ 
+const housing = parseInt(prompt("What is your monthly housing cost?"))
+
+const transportation = parseInt(prompt("What is your monthly transportation cost?"))
+
+const telephoneBill = parseInt(prompt("What is your monthly telephone bill?"))
+
+const savings = parseInt(prompt("How much do you want to save in a year?"))
+
+const weeklySavings = savings/52
+
+const totalYearlyCost = 12*(food + housing + transportation + telephoneBill) 
+
+const totalWeeklyCost = totalYearlyCost/52
+
+const revenue = pay - totalWeeklyCost
+
+x= savings - revenue 
+
+if (revenue>weeklySavings){alert("You are on track.")}
+
+else if (revenue<weeklySavings){alert("You need to save x more a week.")}
+
+
+
+
+
