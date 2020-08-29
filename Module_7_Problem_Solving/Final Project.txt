@@ -1,0 +1,121 @@
+﻿Design Thinking:
+
+
+1. Empathize: What is the effect of the problem? What are the pain points? Are they time based financially or other? What about the current situation creates this negative effect? Who does this hurt the most? Are there multiple groups? If so, which group is affected the most?
+
+
+The pain points are reading and writing skills that are below grade level for students in grades 3 to 5 (ages 8-11), especially in households where is English is not the primary language.  This becomes especially problematic when students reach 4th and 5th grade, because they will have to analyze and evaluate text instead of learning to read. (Reading to learn, as opposed to learning to read)  Poor reading and writing skills affects comprehension and grades in all of the other core subjects such as history, math(when pertaining to word problems and directions), and science. 
+
+Immigrant students in the United States often face both a language and education barrier. Many have fled their country and have not had formal education and cannot read or write in their native language, which puts them at an even greater disadvantage in the classroom. In low-income areas, where there are less resources and more students to a classroom, there is also the pressure of high stakes testing. Due to these reasons, a teacher will not always be able to fully tackle the underlying problems, leaving students to fall through the cracks of a broken educational system.
+
+
+
+
+2. Define the problem: What is the underlying source? Once we understand the effect the current situation has on the lives on those we want to serve, we need to do the research, potentially interviewing people in the affected industry/group about the problem and their thoughts on where it is coming from. Once we identify the people, situations, and/or factors that contribute to the root cause of our issues, we can start thinking about what our solutions and goals are.
+
+
+Two main factors of the problem outlined above are both social and economic. Most of the families I have worked with in parochial school are from the working middle class or working poor. In most households, both parents are working to support their families and give them a better life. Students would often have to stay in afterschool until 7:00 pm. Parents cannot always support their children with their studies as they would like due to time constraints/deadlines in their job. Oftentimes they are more focused on giving their children the important physical needs such as food, clothing, and shelter. In other cases, parents may have the time, but they do not have the ability to help their children due to the language and/or education barrier. Families newly arriving to the US often have no other support than the school to help their children succeed.
+
+Another problem I have encountered with today’s students in the age of technology is their attention span is a lot shorter and there is a lot less patience for ELA than Math, where the answer is more straightforward. Students are constantly inundated with news, videos, information, and social media, making it more difficult to sit down and struggle through a particular text. Unfortunately, they lack the reading stamina necessary to be successful.  This app, which seeks to improve reading skills at home, must be able target that problem first in order to be successful.
+
+Poor writing skills abound when students are required to create a detailed piece of writing but do not have the basic foundations to do so. In the parochial school where I taught, grammar was a requirement of the curriculum. Grammar is not explicitly taught in many schools, however, which is a disservice for students who need the structure and rules to begin to form their thoughts in the new language. This app must address this need in order to create improvement in the target group.
+
+Lastly, there are fewer reading and writing apps that specifically target the needs of the age and demographic that I want to help.There are many math apps such as Mathletics or Khan Academy which gives students loads of extra practice, and effectively engages them in the learning process. Math classes had competitions to see who scored the highest in Mathletics. This created an incentive for students to learn and perform their best.  I felt perplexed and thought,``Why can”t there be an effective app for ELA???” This app must effectively engage students in order to be successful on the market.
+
+
+
+
+1. Are we looking to tackle the root cause? 
+
+
+It would be too much to tackle the root cause, but the app would directly target the problem. The app would act as an educational supplement or tutor to help improve a child’s literacy skills at home.
+
+
+2. Are we looking to directly address a single or multiple pain points of the problem?
+
+
+Ideally, I would like to use the app to target both reading and writing skills. It would be easier to develop an app that first develops and practices reading skills while offering writing skills practice that focuses on grammar, sentence structure, and paragraph formation. As it becomes more popular, then I can add on more developed writing skills practice. 
+
+
+3. Are we looking to solve the problem directly or are we trying to provide information/aid in an action that our users can take to solve the problem themselves?
+
+
+The app would attempt to solve the problem directly by engaging students of this age in a much more meaningful way.
+
+
+      3. Ideate: Once you identify the problem you want to solve and the aspects of the problem you want to tackle, the next step is to brainstorm possible solutions. Note that a good solution addresses one thing well. It is better to have a single purpose app that does what it does in a well thought out way than have an application that has multiple purposes, as this can confuse users.
+
+
+In order to address the problems outlined above, the app must be culturally sensitive, “kid-friendly,” thorough, supportive of ELA curriculum yet go a step beyond to pique student interest. One solution is creating an app that contains short snippets of text to build a student’s reading stamina.  Within each snippet, main or important vocabulary words will be defined, and used in examples by tapping on the underlined word.  Students will have the opportunity to practice using the words in context in a sentence at the end of the section. There will also be a series of multiple choice questions (fill in the blank, matching, etc) pertaining to the text. Answers will be pre-loaded to the app for students for review and understanding. 
+
+In order to pique interest in this app, it will be built as a game with levels. When a student passes each level, the reading will become more difficult. Students will have less time to read the passage to extract meaning.  Each group of levels will focus on a particular skill such as main idea, theme, plot, author’s purpose, etc. The writing component of the app will focus on the basics such as grammar, sentence structure, then paragraphs and essays in the harder levels. Students will learn a grammar skill, practice, and see their progress in real time. In order to pass to another level, students must show 100% mastery in each skill.  Points will be awarded accordingly. Teachers or parents will be able to log on and track student progress. Teachers can create competitions based on the amount of points a student accumulates. Students will have the ability to compete against each other in the app, creating further interest in the app, and most importantly, reading and writing. 
+
+
+
+
+    
+
+
+
+
+
+Lean Business Canvas
+
+
+
+What problem do you want to solve?
+
+
+I am looking to help solve the problem of poor reading and writing skills in students that are in grades 3 to 5(ages 8-11 yrs. old)-especially in neighborhoods where English is used as a second language. In that process, I want to also bring the joy of reading and writing to these students. So much of what reading and writing has become in schools is in the form of test-prep-alienating students who are new to the language and are already struggling with the language barrier. I want to create an app that can encourage and inspire students to read and write on their own while helping them to improve crucial language skills.
+
+
+Existing Alternatives: Reading and writing apps already on the market such as Duolingo or 
+IXL.
+
+
+Customer Segments: Who experiences this problem and is likely to use your solution?
+
+
+Students in elementary school grades 3-5 (ages 8-11) that are below reading grade level and need additional reading and writing help outside of the classroom would use the app. These particular students’ first language is a language other than English.
+
+
+Solution: What is our MVP solution for this problem?
+
+
+The MVP solution will still focus on improvement of students’ reading skills and writing skills. The reading component will focus on building students’ reading stamina and skills. The writing skills component will focus more on basic grammar, sentence structure, and paragraphs but will become more developed as the app becomes more popular.
+
+
+Key Metrics: How will we know if our solution is effective?
+
+
+We will use data from the app which shows students’ weaknesses and if they have improved in the various levels to determine if the solution is effective. This will enable us to focus on what the product can do better to address student deficiencies. Also, user reviews and feedback sent through the app itself will show if the solution is effective.
+
+
+Unique Value Proposition: What makes our solution different from other solutions solving the same problem?
+
+
+This solution will cater to, and will be culturally sensitive to its audience. It will make reading and writing more fun for children that are struggling to keep up with the demands of their grade. 
+
+
+Channels: How will we get our solution into the hands of those that can use it? Will it be downloaded/is it free? Will you need to train people on how to use it? Etc.
+
+
+The app will be free and can be downloaded from the Android or IOS platform. Additionally, advertising to teachers in classrooms/schools via linkedin, instagram, facebook, will help spread awareness and use of the app.
+
+
+Unfair Advantage: Is there a factor that makes your solution more effective than other solutions by the nature of a structural advantage either of the product or of your team(for example, do you have access to data that others don’t?)
+
+
+As a former teacher, I have full knowledge of the educational needs of the students this app will service. I also have connections with former teachers that can give me expert feedback on what would work for their students. Additionally, they would be able to test the app in their classrooms with the proper permissions.
+
+
+Cost Structure: What is the base cost it takes to create and maintain your solution? What is the cost of serving one person? The 100th person? The 1000th person?
+
+
+It would not cost anything if I created the app on my own, just hard work, effective collaboration, and many sleepless nights. In order to truly develop and serve students, however, and to incorporate copyrighted text materials, the app may cost a lot more: $100,000 to $500,000 (estimate).
+
+
+Revenue Structure: How will your solution make revenue so it is able to fund itself and consistently provide the service?
+
+
+Since the app is free, it would have to fund itself through paid advertising, in app purchasing, grants, and/or donations.
